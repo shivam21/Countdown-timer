@@ -10,4 +10,6 @@
       the License.
       -->
     <string name="app_name">AndroidDevChallenge</string>
+    <string name="countdown_timer">Compose.Timer</string>
+    <string name="select_time">Please Select Time</string>
 </resources>
